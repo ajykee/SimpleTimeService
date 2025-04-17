@@ -16,6 +16,7 @@ When you hit the root path (`/`), you'll get a JSON response like:
  ```
  
  Getting Started
+ 
 Prerequisites
 Node.js (v16 or later recommended)
 npm (comes with Node.js)

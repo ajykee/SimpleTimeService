@@ -48,6 +48,10 @@ Run With Docker
 
 Build the Docker Image
 -  `docker build -t simple-time-service .`
+-  Image has been pushed to dockerhub
+  repoName: ajyke/simpletimeservice
+
+-  `docker pull ajyke/simpletimeservice:tagname`
   
 Run the Container
 -  `docker run -p 3000:3000 simple-time-service`

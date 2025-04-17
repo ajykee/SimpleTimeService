@@ -13,7 +13,7 @@ When you hit the root path (`/`), you'll get a JSON response like:
   "timestamp": "2025-04-15T12:00:00.000Z",
   "ip": "123.456.789.000"
 }
- 
+ ```
  
  Getting Started
 Prerequisites
